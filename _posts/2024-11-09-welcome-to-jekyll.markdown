@@ -24,6 +24,16 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+In equation $\eqref{eq:sample}$, we find the value of an
+interesting integral:
+
+$$
+\begin{equation}
+\int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+\label{eq:sample}
+\end{equation}
+$$
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
