@@ -4,8 +4,8 @@ title: 关于
 permalink: /about/
 ---
 
-* 👋 Hi, I’m @jiangshengdev
-* 👀 I’m interested in TypeScript
-* 🌱 I’m currently learning Data Structure, Computational Geometry
+* 👋 你好，我是 @jiangshengdev
+* 👀 我对 TypeScript 感兴趣
+* 🌱 我目前正在学习数据结构和计算几何
 * 💞️ --
 * 📫 amlhbmdzaGVuZ2RldiNvdXRsb29rLmNvbQ==
