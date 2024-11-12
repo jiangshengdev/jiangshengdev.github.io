@@ -197,13 +197,13 @@ $$
 
 **计算 $ \phi^6 $ 和 $ \psi^6 $：**
 
-- $ \phi^6 = \left( \dfrac{1 + \sqrt{5}}{2} \right)^6 \approx 17.9443 $
-- $ \psi^6 = \left( \dfrac{1 - \sqrt{5}}{2} \right)^6 \approx (-0.9443) $
+- $ \phi^6 = \left( \dfrac{1 + \sqrt{5}}{2} \right)^6 \approx 17.94427191 $
+- $ \psi^6 = \left( \dfrac{1 - \sqrt{5}}{2} \right)^6 \approx 0.05572809 $
 
 **代入通项公式：**
 
 $$
-F_6 \approx \dfrac{1}{\sqrt{5}} (17.9443 - (-0.9443)) \approx \dfrac{1}{\sqrt{5}} (17.9443 + 0.9443) \approx \dfrac{18.8886}{2.2361} \approx 8.0
+F_6 \approx \dfrac{1}{\sqrt{5}} (17.94427191 - 0.05572809) \approx \dfrac{17.88854382}{2.236067977} \approx 8.0
 $$
 
 得到的结果为 8，与斐波那契数列的第 6 项一致。
